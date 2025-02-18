@@ -42,7 +42,7 @@
 
 <script setup lang="ts">
   import { ref, watch } from 'vue';
-  import IconEdit from '../icons/iconEdit.vue';
+  import IconEdit from '../icons/IconEdit.vue';
   import IconDelete from '../icons/IconDelete.vue';
   import TodoCheckBox from './AppCheckBox.vue';
   import useStore from '../store/store';
